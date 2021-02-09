@@ -1,0 +1,13 @@
+<svg version= "1.1" xmlns= "http://www.w3.org/2000/svg"> 
+<svg width="450" height="450" viewBox="0 0 200 200" class="house">
+  <g>
+    <circle fill="#dbd9b8" cx="150" cy="15" r="30" />
+    <circle fill="#B8DBD9" cx="140" cy="60" r="20" />
+    <circle fill="#a1a1a1" cx="120" cy="80" r="10" />
+    <rect fill="#8C5E58" width="20" height="50" x="110" y="90" />
+    <polygon fill="#6B6570" points="100,100 150,150 50,150" />
+    <rect fill="#2CEAA3" width="200" height="10" x="0" y="190" />
+    <rect fill="#8C5E58" width="80" height="50" x="60" y="150" />
+    <rect fill="#0D1F22" width="20" height="30" x="100" y="170" />
+  </g>
+</svg>
